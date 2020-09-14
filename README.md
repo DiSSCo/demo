@@ -4,4 +4,5 @@ A collection of DiSSCo related demo.
 
 Jupyter Notebooks 
 
-1. Digital Specimens: 
+1. [Digital Specimens](https://github.com/DiSSCo/demo/blob/master/notebooks/digital-specimen-demo1.ipynb): A few simple operations on a digital specimen. 
+If the github notebook page is not loading paste the notebook url here: https://nbviewer.jupyter.org/
