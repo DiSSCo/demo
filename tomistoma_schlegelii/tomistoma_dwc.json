@@ -1,0 +1,28 @@
+[
+  {
+    "occurrenceID": "http://www.wikidata.org/entity/Q118129770",
+    "associatedMedia": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center-RMNH.RENA.35444%204-Tomistoma%20schlegelii.jpg",
+    "catalogNumber": "RMNH.RENA.35444",
+    "recordedBy": "http://www.wikidata.org/entity/Q61390",
+    "recordedByLabel": "Salomon Müller",
+    "relationship": "discoverer or inventor"
+  },
+  {
+    "occurrenceID": "http://www.wikidata.org/entity/Q118129970",
+    "associatedMedia": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center-RMNH.RENA.35445%2020-Tomistoma%20schlegelii.jpg",
+    "catalogNumber": "RMNH.RENA.35445",
+    "recordedBy": "http://www.wikidata.org/entity/Q61390",
+    "recordedByLabel": "Salomon Müller",
+    "relationship": "discoverer or inventor"
+  },
+  {
+    "occurrenceID": "http://www.wikidata.org/entity/Q118130081",
+    "associatedMedia": "http://commons.wikimedia.org/wiki/Special:FilePath/Egg%2035449.jpg",
+    "catalogNumber": "RMNH.RENA.35449",
+    "recordedBy": "http://www.wikidata.org/entity/Q61390",
+    "recordedByLabel": "Salomon Müller",
+    "relationship": "discoverer or inventor"
+  },
+  ...
+]
+
