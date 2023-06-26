@@ -20,6 +20,12 @@ A snippet of one of the elements in the graph:
 'edgeLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'depicts'}
 
 ```
+
+### code and example files 
+- [tomistoma.json](tomistoma.json) is a JSON download of the wikidata graph
+- [wiki_6hBD.py](wiki_6hBD.py) is a python code to create the graph (provided by Wikidata)
+- [wiki-to-dwc.py](wiki-to-dwc.py) is a sample python script to showcase possible mapping
+  
 ### map to darwin core 
 
 The test python script looks at a json file and produces dwc mapping. 
